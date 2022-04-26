@@ -6,7 +6,7 @@ const Nav = () => {
     return (
         <div className='nav-div'>
          <Link to='/home'>Home</Link>   
-         <Link to='/work'>Added work</Link>   
+         <Link to='/add-event'>Add Event</Link>   
           
         </div>
     );
